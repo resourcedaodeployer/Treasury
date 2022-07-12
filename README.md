@@ -1,7 +1,7 @@
 # Coins & Tokens the RSC Treasury will look at getting and earning for staking yield. 
 
-Arweave (AR) 
-Akash Network 
+- Arweave (AR) 
+- Akash Network 
 
 
 # tools
