@@ -3,6 +3,9 @@
 - Arweave (AR) 
 - Akash Network 
 
+# Watching 
+
+- Lukso Network (https://lukso.network/)
 
 # tools
 
